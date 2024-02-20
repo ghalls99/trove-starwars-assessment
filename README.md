@@ -25,7 +25,7 @@ The available endpoints can be found here:
 
 ## People - GET
 
-### `/people?searchTerm='your-search-term`
+### `/people?searchTerm='your-search-term'`
 
 provide a search term relevant to star wars and it will return a character or a list of characters that is most similar to your search
 
