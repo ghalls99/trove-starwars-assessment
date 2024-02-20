@@ -1,0 +1,13 @@
+.select {
+	min-width: 70%;
+}
+
+.error {
+	color: 'red';
+	min-height: 100px;
+	margin: 100px 0 100px 0;
+}
+
+.title {
+	text-align: center;
+}

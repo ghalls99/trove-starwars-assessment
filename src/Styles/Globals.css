@@ -1,0 +1,33 @@
+/* Global Styles */
+.container {
+	padding: 40px;
+	min-width: 100px;
+	max-width: 800px;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+.center {
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	align-items: center;
+	height: 100vh;
+}
+
+/* Media query for mobile devices */
+@media (max-width: 600px) {
+	.container {
+		margin: 0 auto;
+	}
+}
+
+.primary-button {
+	background-color: #007bff;
+	color: white;
+	margin-top: 20px;
+	border-radius: 4px;
+	padding: 8px;
+	border: none;
+	font-size: 18px;
+}
